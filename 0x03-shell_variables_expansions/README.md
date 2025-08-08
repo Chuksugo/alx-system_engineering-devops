@@ -63,3 +63,7 @@ This script encodes input text using the **ROT13** cipher — a simple letter su
 
 ## Task 16: The eggs of the brood need to be an odd number
 This script prints **every other line** from the input, starting with the **first line**.
+
+### 17. I'm an instant star. Just add water and stir.
+A script that adds the values of the environment variables `WATER` and `STIR`, converts the result from their respective bases to base `bestchol`.
+
