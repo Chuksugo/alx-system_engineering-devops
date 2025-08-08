@@ -57,3 +57,9 @@ This script prints a greeting to the current Linux user.
 
 ### 14. Decimal to Hexadecimal
 Converts a number stored in the `DECIMAL` environment variable from base 10 to base 16.
+
+## Task 15: Love is anterior to life, posterior to death, initial of creation, and the exponent of breat
+This script encodes input text using the **ROT13** cipher — a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
+
+## Task 16: The eggs of the brood need to be an odd number
+This script prints **every other line** from the input, starting with the **first line**.
