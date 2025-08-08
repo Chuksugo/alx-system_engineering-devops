@@ -33,3 +33,6 @@ This script prints a greeting to the current Linux user.
 
 ### 6. Local variable
 - Create a script that creates a new local variable.
+
+### 7. Global variable
+- Create a script that creates a new global variable.
